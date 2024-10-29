@@ -1,0 +1,259 @@
+---
+format: 
+  revealjs:
+    title: "Principles of Microeconomics"
+    author: Martin Andersen
+    date: "Week 1"
+    # incremental: true
+    slide-number: true
+    multiplex: true
+    toc: true
+    toc-depth: 1
+    smaller: true
+    scrollable: true
+---
+
+# Value of Economics
+
+## What do you think economists do?
+
+**https://forms.office.com/r/T7eZhPWUiv**
+
+## What do economists actually do?
+
+![](img/Andersen%20unit%200%20-%20Thursday0.png)
+
+-   Economists use theoretical and empirical models to:
+    -   Evaluate programs
+
+![](img/Andersen%20unit%200%20-%20Thursday1.png)
+
+-   Economists use theoretical and empirical models to:
+    -   Evaluate programs
+    -   Study human behavior
+
+![](img/Andersen%20unit%200%20-%20Thursday2.png)
+
+-   Economists use theoretical and empirical models to:
+    -   Evaluate programs
+    -   Study human behavior
+    -   Explain social phenomena
+
+## Why study (micro) economics?
+
+Provides a theoretical model of how the world “works”
+
+Develops analytical thinking and critical problem-solving skills
+
+Supports the acquisition of valuable quantitative, statistical, data, and computer skills
+
+Helps to formulate and analyze both business strategies and public policies
+
+## What makes an economist an economist?
+
+-   Economists apply two key ideas
+    -   Marginal thinking—what (usually) matters are small changes, not big ones
+    -   Rational decision making—people will maximize their surplus (marginal benefit net of marginal cost)
+-   In this class we will:
+    -   Learn what marginal analysis means
+    -   Develop concepts of supply and demand for goods and services
+    -   Use supply and demand to understand consumer (you) and firm (the boss) behavior
+    -   Understand when government intervention can make society better (or worse) off
+
+## Thinking like an economist – How much should you study?
+
+![](img/Andersen%20unit%200%20-%20Thursday3.jpg)
+
+-   Imagine that you can spend your time
+    -   Partying
+    -   Studying
+
+![](img/Andersen%20unit%200%20-%20Thursday4.jpg)
+
+-   Imagine that you can spend your time
+    -   Partying
+    -   Studying
+-   How do you decide what to do?
+-   Let’s start with the benefit of spending time studying or partying
+    -   Studying appears to provide the biggest benefit, so should you spend all of your time studying?
+-   NO
+-   Rather than looking at TOTAL benefit, let’s think about MARGINAL benefit
+    -   Marginal benefit is the additional benefit you get from spending one more minute doing something
+-   The first few minutes provide the most benefit
+-   We will learn that maximizing total benefit requires equalizing marginal benefits
+
+## How much should you study?
+
+-   This person is allocating four hours (240 minutes) between partying and studying
+    -   Every minute spent studying decreases time spent partying
+    -   Forces a a trade-off between partying and studying
+-   Redoing the graph using “Minutes spent studying” highlights this tradeoff
+-   “Goldilocks point” or “equilibrium”
+    -   Where marginal benefit of studying=marginal benefit of partying
+
+[**https://forms.office.com/r/kYfVEAkSeS**]{style="color:#C00000"}
+
+## How much should you study?(attendance question)
+
+## How much should you study?
+
+-   This is an example of:
+    -   Marginal analysis
+        -   The benefit of spending an additional minute in each activity
+    -   Opportunity cost
+        -   Formalizes the trade-off
+    -   Equilibrium
+-   We will work on these ideas in units 2 through 5
+
+# What do UNCG economists do
+
+## Economists at UNCG study
+
+-   Labor markets
+
+-   Health and health insurance
+
+-   Environmental policy
+
+-   Education
+
+-   Credit and lending markets
+
+-   Interest rates
+
+-   … and more
+
+# What will we discuss in Packback
+
+## Packback topics
+
+| Unit |                              Topic                               |
+|:----:|:----------------------------------------------------------------:|
+|  1   |                What makes a good economic model?                 |
+|  2   |               Should cities build sports stadiums?               |
+|  3   |              Why isn’t the housing market working?               |
+|  4   | Why are there fewer price hikes as demand becomes more elastic?  |
+|  5   |              Ticket scalping and economic fairness               |
+|  6   | Does the minimum wage reduce unemployment and how would we know? |
+|  7   |           Market failures in the (re)insurance market            |
+|  8   |              Wind energy and the cost of production              |
+|  9   |                Consequences of the war in Ukraine                |
+|  10  |                          TBD (Monopoly)                          |
+|  11  |           TBD (Monopolistic competition and oligopoly)           |
+
+# ECO 201 at ludicrous speed
+
+## Module 1: Economic Tools
+
+-   How do micro and macro economics differ?
+
+-   How scarcity forces people to make choices
+
+-   Defining an economic model
+
+-   Relationship between economic models and the scientific method
+
+-   Circular Flow Model
+
+-   Opportunity costs
+
+-   Marginal analysis
+
+## Module 2: Trade-Offs and Trade
+
+-   Production functions and production possibilities
+
+-   Opportunity cost
+
+-   Specialization and gains from trade
+
+## Module 3: Supply and Demand
+
+-   Supply and Demand curves
+    -   How to read them
+    -   Difference between movement along them versus shifts in them
+    -   Determinants
+    -   Laws of Supply and Demand
+-   Market equilibrium
+-   Effect of market shocks
+
+## Module 4: Elasticity
+
+-   Definition of elasticity
+-   Interpreting different kinds of elasticities
+    -   Own price
+    -   Cross price
+    -   Income
+    -   Supply vs. Demand
+
+## Module 5: Market Efficiency and Inequality
+
+-   How to efficiently allocate resources
+
+-   Measuring economic surplus
+
+-   Efficiency of economic markets
+
+-   Economic inequality
+
+## Module 6: Market Interventions
+
+-   Rationales for government intervention
+
+-   Kinds of market interventions
+
+-   Efficiency consequences of market interventions
+
+## Module 7: Market Failure
+
+-   Production externalities (positive and negative)
+
+-   Public goods
+
+-   Common resources
+
+## Module 8: Costs and Production
+
+-   Theory of the firm
+
+-   Production functions and production costs
+
+-   Profit maximization
+
+## Module 9: Perfect Competition
+
+-   Types of markets
+
+-   Short-run and long-run equilibrium
+
+-   Efficiency in the perfectly competitive market
+
+## Module 10: Monopoly
+
+-   Monopoly markets
+
+-   Efficiency of a single-price monopoly
+
+-   Price discrimination
+
+-   Monopoly regulation
+
+## Module 11: Monopolistic Competition and Oligopoly
+
+-   Measuring market concentration
+
+-   Monopolistic competition
+
+-   Oligopoly
+
+## testing an embedded form
+```{=html}
+<iframe 
+    width="480px" 
+    height="250px" 
+    src="https://forms.office.com/Pages/ResponsePage.aspx?id=9Vzhc7tdr0aoYnU5Fiadc5-qiUetSxdIr7xcbHDc42BURDFONzYwS0ZaRzBISFpCMFZaVUdWQjNSVi4u" 
+    title="Office Forms Response Page"
+    sandbox="allow-scripts allow-same-origin">
+</iframe>
+
+```
